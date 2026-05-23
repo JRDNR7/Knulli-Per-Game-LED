@@ -1,3 +1,5 @@
+THIS DOES NOT WORK ON ANYTHING AFTER GLADIATOR I.
+
 # Knulli-Per-Game-LED
 Per Game LED Script for use with TrimUI Brick and Knulli systems (Untested).
 
